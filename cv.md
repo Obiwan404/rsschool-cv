@@ -46,9 +46,9 @@ ___________________________________________________________________
 * Sales Manager (10 years experience)
 ___________________________________________________________________
 ### Languages: 
-* English* – A2 [Link to sertificate Busuu](https://api.busuu.com/anon/certificates/2620aa3cb3d05c2e1aa8e3c9c35ffa4d?utm_source=CRM&utm_group=ENG&utm_medium=CERTIFICATE_LEVEL&utm_campaign=CERTIFICATE_LEVEL)
+*English* – A2 [Link to sertificate Busuu](https://api.busuu.com/anon/certificates/2620aa3cb3d05c2e1aa8e3c9c35ffa4d?utm_source=CRM&utm_group=ENG&utm_medium=CERTIFICATE_LEVEL&utm_campaign=CERTIFICATE_LEVEL)
 
-* Ukraine* – native
+*Ukraine* – native
 
-* Russian* – trying to forget
+*Russian* – trying to forget
 ___________________________________________________________________
