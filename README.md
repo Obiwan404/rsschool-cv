@@ -1,1 +1,1 @@
-https://github.com/Obiwan404/rsschool-cv/blob/gh-pages/cv.md
+https://obiwan404.github.io/rsschool-cv/
